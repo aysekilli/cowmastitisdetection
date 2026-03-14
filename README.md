@@ -1,10 +1,10 @@
 ### Cow Mastitis Detection
 
-A machine learning project for early detection of mastitis(a disease) in dairy cows using sensor-based health data.
+a machine learning project for early detection of mastitis(a disease) in dairy cows using sensor-based health data.
 
 - 800 rows, 9 features (Milk Temperature, Somatic Cell Count, Milk Conductivity, etc.)
-- Binary classification: Healthy (0) vs Mastitis (1)
-- Source: Kaggle — synthetic/simulated data
+- binary classification: Healthy (0) vs Mastitis (1)
+- source: Kaggle
 
 Three models were trained and compared:
 
